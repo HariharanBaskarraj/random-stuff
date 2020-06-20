@@ -1,2 +1,2 @@
-# web-development-coursera
+# web-development
 Coursera Practices and Tests
